@@ -11,3 +11,11 @@
         <img src="img/tiktok.png" style="width: 30%">
     </a>
 </p>
+<p align="center" style="margin-bottom: 16px">
+    <a href="https://freecodecamp.com/fahmisyahya">
+        <img src="img/freecodecamp.png" style="width: 30%">
+    </a>&nbsp;
+    <a href="https://replit.com/@codewithfahmi">
+        <img src="img/replit.png" style="width: 30%">
+    </a>&nbsp;
+</p>
