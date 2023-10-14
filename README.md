@@ -1,1 +1,6 @@
-![Twitter header - 2](https://user-images.githubusercontent.com/117266406/221542836-be9b3e8f-9710-4e84-b30f-e1cb6d952d86.png)
+<img src="img/cover.png" style="width: 100%;margin-bottom: 16px">
+<div style="display: flex;flex-direction: row;width: 100%;gap: 16px;">
+    <img src="img/instagram.png">
+    <img src="img/linkedin.png">
+    <img src="img/tiktok.png">
+</div>
