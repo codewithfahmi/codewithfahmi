@@ -3,10 +3,10 @@
 <p align="center">
     <a href="https://linkedin.com/in/fahmi-syahrul-yahya">
         <img src="img/linkedin.png" style="width: 30%">
-    </a>&nbsp;
+    </a>&nbsp;&nbsp;
     <a href="https://instahram.com/fahmi.s.yahya">
         <img src="img/instagram.png" style="width: 30%">
-    </a>&nbsp;
+    </a>&nbsp;&nbsp;
     <a href="https://tiktok.com/@codewithfahmi">
         <img src="img/tiktok.png" style="width: 30%">
     </a>
@@ -14,8 +14,8 @@
 <p align="center" style="margin-bottom: 16px">
     <a href="https://freecodecamp.com/fahmisyahya">
         <img src="img/freecodecamp.png" style="width: 30%">
-    </a>&nbsp;
+    </a>&nbsp;&nbsp;
     <a href="https://replit.com/@codewithfahmi">
         <img src="img/replit.png" style="width: 30%">
-    </a>&nbsp;
+    </a>
 </p>
