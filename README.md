@@ -14,8 +14,9 @@
   <a href="https://www.linkedin.com/in/fahmi-syahrul-yahya"><img src="images/linkedin.svg" width="36" /></a>
   &nbsp;
   <a href=""><img src="images/w3profile.svg" width="36" /></a>
-  <img src="images/border.svg">
 </div>
+<img src="images/border.svg">
+<br>
 <br>
 <img src="images/label-skills.svg" width="96">
 
