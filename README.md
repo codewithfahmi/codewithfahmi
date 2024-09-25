@@ -17,6 +17,6 @@
   <img src="images/border.svg">
 </div>
 <br>
-<img src="images/label-skills.svg" width="80">
+<img src="images/label-skills.svg" width="96">
 
 <img src="images/HTML.svg" width="48">&nbsp;&nbsp;<img src="images/CSS.svg" width="48">&nbsp;&nbsp;<img src="images/JS.svg" width="48">&nbsp;&nbsp;<img src="images/PHP.svg" width="48">&nbsp;&nbsp;<img src="images/Tailwind.svg" width="48">&nbsp;&nbsp;<img src="images/Bootstrap.svg" width="48">&nbsp;&nbsp;<img src="images/React.svg" width="48">&nbsp;&nbsp;<img src="images/jQuery.svg" width="48">&nbsp;&nbsp;<img src="images/Nodejs.svg" width="48">&nbsp;&nbsp;<img src="images/Express.svg" width="48">&nbsp;&nbsp;<img src="images/CodeIgniter.svg" width="48">&nbsp;&nbsp;<img src="images/Laravel.svg" width="48">
