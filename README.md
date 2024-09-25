@@ -1,5 +1,5 @@
 <div align="center">
   <img src="profile.png" width="150" height="150">
-  <h3 style="margin: 0">Fahmi Syahrul Yahya</h3>
-  <h6 style="margin: 0">Ordinary person</h6>
+  <h2>Fahmi Syahrul Yahya</h2>
+  <h4>Ordinary person</h4>
 </div>
