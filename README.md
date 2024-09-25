@@ -14,7 +14,7 @@
 <br>
 <img src="images/border.svg">
 <br>
-<div>
+<div align="center">
 
 ## Skills
 
