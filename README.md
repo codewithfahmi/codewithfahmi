@@ -17,7 +17,7 @@
 
 <div>
 <dl>
-<img src="images/label-skills.svg" width="96" style="margin-bottom: 8px;display:block;">
+<img src="images/label-skills.svg" width="80" style="margin-bottom: 8px;display:block;">
 </dl>
 <img src="images/HTML.svg" width="48">&nbsp;
 <img src="images/CSS.svg" width="48">&nbsp;
