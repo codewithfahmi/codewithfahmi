@@ -20,7 +20,6 @@
 <div>
   <img src="images/label-skills.svg" width="96">
   <img src="images/border-transparent.png" >
-  <br>
   <img src="images/HTML.svg" width="48">&nbsp;
   <img src="images/CSS.svg" width="48">&nbsp;
   <img src="images/JS.svg" width="48">&nbsp;
