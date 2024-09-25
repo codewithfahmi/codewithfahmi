@@ -16,3 +16,7 @@
   <a href=""><img src="images/w3profile.svg" width="36" /></a>
   <img src="images/border.svg">
 </div>
+<br>
+<img src="images/label-skills.svg" width="80">
+<br>
+<img src="images/HTML.svg" width="64">
