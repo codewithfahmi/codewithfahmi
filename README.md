@@ -19,4 +19,4 @@
 <br>
 <img src="images/label-skills.svg" width="80">
 
-<img src="images/HTML.svg" width="64">
+<img src="images/HTML.svg" width="48">&nbsp;<img src="images/CSS.svg" width="48">
