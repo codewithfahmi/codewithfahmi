@@ -16,7 +16,7 @@
 <br>
 <div align="">
 
-<img src="images/label-skills.svg">
+<img src="images/label-skills.svg" width="96">
 <div>
 <img src="images/HTML.svg" width="48">&nbsp; 
 <img src="images/CSS.svg" width="48">&nbsp;
