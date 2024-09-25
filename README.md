@@ -34,7 +34,7 @@
 </div>
 <br>
 <div align="">
-<img src="images/label-dev-tools.svg" width="200">
+<img src="images/label-dev-tools.svg" width="220">
 <div>
 </div>
 </div>
