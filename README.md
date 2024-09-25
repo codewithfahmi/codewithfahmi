@@ -32,3 +32,9 @@
 <img src="images/Laravel.svg" width="48">
 </div>
 </div>
+<br>
+<div align="">
+<img src="images/label-dev-tools.svg" width="200">
+<div>
+</div>
+</div>
