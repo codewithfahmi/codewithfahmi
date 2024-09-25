@@ -10,4 +10,5 @@
   <a href="https://www.tiktok.com/@code.with.fahmi"><img src="images/tiktok.svg" width="36"></a>
   <a href="https://www.linkedin.com/in/fahmi-syahrul-yahya"><img src="images/linkedin.svg" width="36" /></a>
   <a href=""><img src="images/w3profile.svg" width="36" /></a>
+  <img src="images/border.svg">
 </div>
