@@ -15,9 +15,9 @@
 <img src="images/border.svg">
 <br>
 <div>
-<dl>
 <img src="images/label-skills.svg" width="96">
-</dl>
+
+<div>
 <img src="images/HTML.svg" width="48">&nbsp;
 <img src="images/CSS.svg" width="48">&nbsp;
 <img src="images/JS.svg" width="48">&nbsp;
@@ -30,5 +30,5 @@
 <img src="images/Express.svg" width="48">&nbsp;
 <img src="images/CodeIgniter.svg" width="48">&nbsp;
 <img src="images/Laravel.svg" width="48">
-
+</div>
 </div>
