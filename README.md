@@ -19,18 +19,17 @@
 ## Skills
 
 <div>
-<img src="images/HTML.svg" width="48">&nbsp;
-<img src="images/CSS.svg" width="48">&nbsp;
-<img src="images/JS.svg" width="48">&nbsp;
-<img src="images/PHP.svg" width="48">&nbsp;
-<img src="images/Tailwind.svg" width="48">&nbsp;
+<img src="images/HTML.svg" width="48">
+<img src="images/CSS.svg" width="48">
+<img src="images/JS.svg" width="48">
+<img src="images/PHP.svg" width="48">
+<img src="images/Tailwind.svg" width="48">
 <img src="images/Bootstrap.svg" width="48">
-
-<img src="images/React.svg" width="48">&nbsp;
-<img src="images/jQuery.svg" width="48">&nbsp;
-<img src="images/Nodejs.svg" width="48">&nbsp;
-<img src="images/Express.svg" width="48">&nbsp;
-<img src="images/CodeIgniter.svg" width="48">&nbsp;
+<img src="images/React.svg" width="48">
+<img src="images/jQuery.svg" width="48">
+<img src="images/Nodejs.svg" width="48">
+<img src="images/Express.svg" width="48">
+<img src="images/CodeIgniter.svg" width="48">
 <img src="images/Laravel.svg" width="48">
 </div>
 </div>
