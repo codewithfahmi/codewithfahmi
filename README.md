@@ -2,7 +2,7 @@
   <img src="profile.png" width="150" height="150">
   <br>
   <br>
-  <img src="images/label name.png" width="312">
+  <img src="images/label-name.png" width="312">
   <br>
   <br>
   <a href="https://www.instagram.com/code.with.fahmi/"><img src="images/instagran.svg" width="36"></a>
