@@ -18,5 +18,5 @@
 </div>
 <br>
 <img src="images/label-skills.svg" width="80">
-<br>
+
 <img src="images/HTML.svg" width="64">
